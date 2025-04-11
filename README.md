@@ -48,7 +48,7 @@ This is an additional task that I wanted to add where I will be running a custom
 
 **Key Takeaways:**
 
-This project not only enhanced my technical skills in using Nmap for security assessments but also helped me in understanding how to methodically approach network scanning and vulnerability assessment. In Addition, Documenting each step and understanding the outcomes prepared me for real-world cybersecurity challenges and audits.
+This lab enhanced my technical skills in using Splunk for real-time monitoring, detecting potential malicious activities, and complex data analysis. It also provided practical experience in managing and interpreting large datasets, which is crucial for effective cybersecurity defense strategies. The ability to customize and utilize Splunk's powerful searching and reporting tools prepares me for advanced cybersecurity monitoring and detection tasks.
 <br />
 
 
