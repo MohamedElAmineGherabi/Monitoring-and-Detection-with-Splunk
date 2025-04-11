@@ -1,4 +1,4 @@
-<h1>Network Vulnerability Scanning with Nmap</h1>
+<h1>Monitoring and Detection with Splunk</h1>
 
 
 <h2>Project Details</h2>
