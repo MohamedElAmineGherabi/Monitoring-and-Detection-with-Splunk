@@ -54,12 +54,14 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Terminal: Utilized for all command-line operations. The Terminal was the primary interface for executing Nmap scans and managing network assessments.</b> 
+- <b>Splunk Interface: Utilized for all data ingestion, searches, report generation, and dashboard creations.</b> 
   
 
 <h2>Environments Used </h2>
 
-- <b>Linux Desktop Environment: The project was conducted in a Linux-based environment. This setup incorporated several development and network analysis tools, though my work focused on utilizing the Terminal for all operations. This choice emphasizes a commitment to leveraging the powerful, versatile capabilities of Linux for network security tasks.</b>
+- <b>Splunk Environment: Conducted the project within Splunk’s own operational environment, which is optimized for data analysis and monitoring tasks. This setup is essential for handling large-scale data specific to cybersecurity needs.
+
+</b>
 
 <h2>Program walk-through:</h2>
 
