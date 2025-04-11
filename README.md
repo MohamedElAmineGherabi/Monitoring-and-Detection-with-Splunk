@@ -2,31 +2,30 @@
 
 
 <h2>Project Details</h2>
-Nmap (Network Mapper) is a free, open-source tool used by cybersecurity professionals to scan networks and systems for vulnerabilities. It is designed to be easy to install and use in authorized environments for non-malicious purposes.
-<br />
+Splunk is a powerful tool used by cybersecurity professionals to monitor, search, and analyze machine-generated big data via a web-style interface. This lab focuses on understanding how to use Splunk for effective monitoring and detection of potential security threats.<br />
 <br />
 
 **Tasks Breakdown:**
 
-**Task 1: Installing and Verifying Nmap Installation & Version**
+**Task 1: Getting Started in the Lab Environment**
 
-Began by installing Nmap, ensuring it was set up correctly to function as needed, Also, verifying the installed version. This foundational step is crucial as it ensures that all subsequent scanning activities are performed on a stable and reliable platform.
+Started by initializing the lab environment which involved setting up the Splunk infrastructure. This foundational step is essential as it ensures all data ingestion and analysis can be performed efficiently.
 
-**Task 2: Accessing the Help Feature and Man Page for Nmap**
+**Task 2: Uploading Data to Splunk**
 
-Familiarized myself with the Nmap help feature and the manual page (man page). This is important for understanding the various commands and options available in Nmap, allowing for more effective use of the tool.
+Learned how to upload various types of data to Splunk. This is crucial for ensuring that the data needed for analysis is correctly integrated into the system.
 
-**Task 3: Running a Basic Nmap Scan on a Target**
+**Task 3: Performing Searches in Splunk**
 
-Conducted a basic Nmap scan on an authorized target. This step is vital for identifying open ports and active services, which are points that could potentially be exploited by attackers. The scan helps in assessing the security posture of the network or system.
+Conducted searches within Splunk to locate specific information. Mastering search commands and understanding the syntax is vital for effective data analysis and threat detection.
 
-**Task 4: Running an Nmap Scan using Options**
+**Task 4: Creating and Sharing Reports in Splunk**
 
-To refine my scanning process, I utilized specific Nmap options to achieve more accurate results, faster scans, and customized outputs. This demonstrates an advanced understanding of Nmap’s capabilities and how to tailor scans to meet specific needs.
+Focused on creating and sharing reports. This involves summarizing findings and sharing insights with relevant stakeholders, which is critical for proactive threat management and response.
 
-**Task 5: Outputing Nmap Scan Results to a File**
+**Task 5: Creating Dashboards in Splunk**
 
-Finally, I exported the results of my previous scans into a file. This is beneficial for documentation and detailed analysis, allowing for a thorough review of the vulnerabilities at a later time.
+Developed dashboards for continuous monitoring. Dashboards are essential for visualizing key metrics and real-time data to quickly assess and respond to threats.
 
 **Bonus Task: Running a Customized Scan on a Target**
 
