@@ -1,8 +1,8 @@
-<h1>Monitoring and Detection with Splunk</h1>
+<h1>Monitoring and Detection with Splunk (SIEM)</h1>
 
 
 <h2>Project Details</h2>
-Splunk is a powerful tool used by cybersecurity professionals to monitor, search, and analyze machine-generated big data via a web-style interface. This lab focuses on understanding how to use Splunk for effective monitoring and detection of potential security threats.<br />
+Splunk (one of the most popular security information and event management (SIEM) platforms in the world) is a powerful tool used by cybersecurity professionals to monitor, search, and analyze machine-generated big data via a web-style interface. This lab focuses on understanding how to use Splunk for effective monitoring and detection of potential security threats.<br />
 <br />
 
 **Tasks Breakdown:**
@@ -64,6 +64,8 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 </b>
 
 <h2>Program walk-through:</h2>
+
+In this lab, I will be acting as a security analyst that is using Splunk to review log data related to the company's web application (buttercupgames). The first step will be to connect to the Splunk server and upload the data for analysis (Task 1 & 2).
 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
