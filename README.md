@@ -27,22 +27,9 @@ Focused on creating and sharing reports. This involves summarizing findings and 
 
 Developed dashboards for continuous monitoring. Dashboards are essential for visualizing key metrics and real-time data to quickly assess and respond to threats.
 
-**Bonus Task: Running a Customized Scan on a Target**
+**Bonus Task: Threat Detection Dashboard: Identifying Suspicious IP Activity**
 
-This is an additional task that I wanted to add where I will be running a customized scan on a target and saving the results in a txt file for the Security Team to review in the next meeting. I will:<br />
-
-
-- Perform an Nmap scan, scanning ports 22-80, on the target: scanme.nmap.org.
-
-- Use the appropriate option to enable OS and version detection, script scanning, and traceroute.
-
-- Set my scan to -T3 for the timing execution of the scan.
-
-- Output the scan results to a txt file named: output.txt.
-
-- Verify the contents of the output.txt file.
-
-- Be sure to reference my Nmap man page for help.
+For the final Bonus Task, I used the time to explore Splunk freely and created a dashboard focused on detecting potential brute force or DDoS attacks. I ran searches to find the top 10 IP addresses with repeated login failures and saved that as one panel. Then I did the same for failed purchase attempts by IP, and also searched for signs of failed ping or port scanning activity. I added all of these panels to one dashboard to get a clearer picture of suspicious activity across the application. It was a great way to tie everything together and practice analyzing logs like a real security analyst.
 
 <br />
 
@@ -75,6 +62,7 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 
 **Finally in task 5,** I started by running a search for purchases using sourcetype=access_* status=200 action=purchase, then added the fields date_mday, date_month, and itemId. After that, I ran a new search to find the most sold items by itemId, switched to the Visualization tab, and changed it to a Column Chart. I saved it to a new dashboard called Top Item Purchases. Then I ran another search for top date_mday, changed it to a Bar Chart, and added it to the same dashboard. Finally, I clicked View Dashboard to see both panels together.
 <br/><br/>
+**For the final Bonus Task,** I explored on my own and created a dashboard to spot potential brute force or DDoS attacks. I built panels showing the top 10 IPs causing login failures, failed purchase attempts, and any failed ping or port scan activity. Each search broke the data down by IP address, helping me identify suspicious behavior. It was a good chance to practice digging into Splunk data like a real security analyst.<br/><br/>
 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
@@ -183,7 +171,7 @@ Task 5: Creating Dashboards in Splunk  <br/>
 
 <br />
 <br />
-Bonus Task: Running a Customized Scan on a Target
+Bonus Task: Threat Detection Dashboard: Identifying Suspicious IP Activity
 <br/>
 <br/>
 <img src="https://i.imgur.com/UftArVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
