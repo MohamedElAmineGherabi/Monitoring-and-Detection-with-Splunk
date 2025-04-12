@@ -65,7 +65,16 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 
 <h2>Program walk-through:</h2>
 
-In this lab, I will be acting as a security analyst that is using Splunk to review log data related to the company's web application (buttercupgames). The first step will be to connect to the Splunk server and upload the data for analysis (Task 1 & 2).
+**In this lab, I was acting as a security analyst that is using Splunk to review log data related to the company's web application (buttercupgames).**<br/><br/>
+
+**In Task 1 & 2,** I opened Firefox and went to (http://172.31.24.10:8000), waited for Splunk to load, then logged in with the given credentials. After closing the pop-ups, I clicked Add data, chose Upload from your computer, and selected the tutorialdata.zip file from the lab folder. I set the Host to Segment in path with a value of 1, submitted the upload, and clicked Start Searching to access the data. <br/><br/>
+
+**In Task 3,** I started by running a keyword search for buttercupgames error to find related messages. Then I enabled the clientip field to get more specific data and saw that the IP 87.194.216.51 had the most errors. I clicked on it to run a field-based search. After that, I switched the SPL Editor to Full mode in Preferences to see more detailed suggestions while typing. Finally, I ran a transformational search using sourcetype=access_* status=200 action=purchase | top categoryId to find the most common purchase categories.<br/><br/> 
+
+**After that in Task 4,** I saved the previous transformational search by clicking Save as > Report, gave it the title Most popular categories with a description, and clicked Save. Then I viewed the report, edited the permissions to show it to the App and gave Everyone read access. After that, I went back to the search page, ran a new query for the top 10 client IPs, changed the time range to All time, clicked the Visualization tab, and switched the chart from bar to pie. <br/><br/>
+
+**Finally in task 5,** I started by running a search for purchases using sourcetype=access_* status=200 action=purchase, then added the fields date_mday, date_month, and itemId. After that, I ran a new search to find the most sold items by itemId, switched to the Visualization tab, and changed it to a Column Chart. I saved it to a new dashboard called Top Item Purchases. Then I ran another search for top date_mday, changed it to a Bar Chart, and added it to the same dashboard. Finally, I clicked View Dashboard to see both panels together.
+<br/><br/>
 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
