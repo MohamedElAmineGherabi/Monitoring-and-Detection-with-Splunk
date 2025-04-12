@@ -66,7 +66,7 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Task 1: Installing and Verifying Nmap Installation & Version <br/>
+Task 1: Getting Started in the Lab Environment <br/>
 <br />
 <img src="https://i.imgur.com/H5SRk79.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -75,7 +75,7 @@ Task 1: Installing and Verifying Nmap Installation & Version <br/>
 
 <br />
 <br />
-Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
+Task 2: Uploading Data to Splunk  <br/>
 <br />
 <img src="https://i.imgur.com/nTnUCVt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -101,7 +101,7 @@ Task 2: Accessing the Help Feature and Man Page for Nmap  <br/>
 
 <br />
 <br />
-Task 3: Running a Basic Nmap Scan on a Target <br/>
+Task 3: Performing Searches in Splunk <br/>
 <br />
 <img src="https://i.imgur.com/6OW2UcB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -113,7 +113,7 @@ Task 3: Running a Basic Nmap Scan on a Target <br/>
 
 <br />
 <br />
-Task 4: Running an Nmap Scan using Options  <br/>
+Task 4: Creating and Sharing Reports in Splunk  <br/>
 <br />
 <img src="https://i.imgur.com/tYk26xA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -135,7 +135,7 @@ Task 4: Running an Nmap Scan using Options  <br/>
 
 <br />
 <br />
-Task 5: Output Nmap Scan Results to a File  <br/>
+Task 5: Creating Dashboards in Splunk  <br/>
 <br />
 <img src="https://i.imgur.com/KWhztEN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
