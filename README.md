@@ -67,11 +67,20 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
 <br />
-<img src="https://i.imgur.com/H5SRk79.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LU4vJsl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/NhDzAoW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="https://i.imgur.com/RayxGso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/z5sAusS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/czVBfTl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/t390Vx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 <br />
 <br />
 Task 2: Uploading Data to Splunk  <br/>
