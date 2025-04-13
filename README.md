@@ -27,9 +27,6 @@ Focused on creating and sharing reports. This involves summarizing findings and 
 
 Developed dashboards for continuous monitoring. Dashboards are essential for visualizing key metrics and real-time data to quickly assess and respond to threats.
 
-**Bonus Task: Threat Detection Dashboard: Identifying Suspicious IP Activity**
-
-For the final Bonus Task, I used the time to explore Splunk freely and created a dashboard focused on detecting potential brute force or DDoS attacks. I ran searches to find the top 10 IP addresses with repeated login failures and saved that as one panel. Then I did the same for failed purchase attempts by IP, and also searched for signs of failed ping or port scanning activity. I added all of these panels to one dashboard to get a clearer picture of suspicious activity across the application. It was a great way to tie everything together and practice analyzing logs like a real security analyst.
 
 <br />
 
@@ -62,7 +59,7 @@ This lab enhanced my technical skills in using Splunk for real-time monitoring, 
 
 **Finally in task 5,** I started by running a search for purchases using sourcetype=access_* status=200 action=purchase, then added the fields date_mday, date_month, and itemId. After that, I ran a new search to find the most sold items by itemId, switched to the Visualization tab, and changed it to a Column Chart. I saved it to a new dashboard called Top Item Purchases. Then I ran another search for top date_mday, changed it to a Bar Chart, and added it to the same dashboard. Finally, I clicked View Dashboard to see both panels together.
 <br/><br/>
-**For the final Bonus Task,** I explored on my own and created a dashboard to spot potential brute force or DDoS attacks. I built panels showing the top 10 IPs causing login failures, failed purchase attempts, and any failed ping or port scan activity. Each search broke the data down by IP address, helping me identify suspicious behavior. It was a good chance to practice digging into Splunk data like a real security analyst.<br/><br/>
+
 
 <p align="center">
 Task 1: Getting Started in the Lab Environment <br/>
@@ -192,31 +189,18 @@ Task 5: Creating Dashboards in Splunk  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/vJNIJae.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
-
-
-
-
 <br />
 <br />
-Bonus Task: Threat Detection Dashboard: Identifying Suspicious IP Activity
-<br/>
-<br/>
-<img src="https://i.imgur.com/UftArVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<img src="https://i.imgur.com/bVmjmPE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<img src="https://i.imgur.com/sa917y7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<img src="https://i.imgur.com/vOvMqKJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br/>
-<img src="https://i.imgur.com/jgo7hzD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/YyM4BHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
 
 
 <br />
