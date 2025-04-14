@@ -1,4 +1,4 @@
-<h1>Monitoring and Detection with Splunk (SIEM)</h1>
+<h1>Monitoring, Detection, Analysis, Reporting, and Visualization with Splunk (SIEM)</h1>
 
 
 <h2>Project Details</h2>
