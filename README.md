@@ -194,6 +194,10 @@ Task 5: Creating Dashboards in Splunk  <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/YyM4BHj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/nRHJbVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
